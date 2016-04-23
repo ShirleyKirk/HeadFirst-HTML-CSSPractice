@@ -1,0 +1,39 @@
+body{
+	background: #d2b48c url(img/bookimgs/1.jpg) no-repeat 0 0 fixed;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 4px dotted green;
+	padding: 20px 10px 10px 10px;
+	font-family: sans-serif; 
+	}
+		
+a{
+	font-family: cursive;
+	font-size: 24px;
+	text-decoration:none;
+	}
+		
+em{
+	font-size: 28px;
+	font-family: cursive;
+	color: green;
+	}
+		
+div{
+	margin-bottom: 20px;
+	margin-left: 10px;
+	position: relative;
+	display: inline-block;
+	width: 330px;
+	}
+		
+h1{
+	font-family:Impact;
+	color: white;
+	font-size: 40px;
+	text-align:center;
+	}
+
+audio{
+	position: center;
+}
